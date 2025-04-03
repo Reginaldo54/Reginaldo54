@@ -1,20 +1,21 @@
-## Olá 👋, meu nome é Reginaldo Alves! 
-### Sobre mim
+# Olá 👋, meu nome é Reginaldo Alves! 
+## Sobre mim
 Tenho 23 anos, sou técnico em Programação de Jogos Digitais e atualmente graduado em Análise e Desenvolvimento de Sistemas.
 Nos projetos, meu objetivo é desenvolver soluções robustas e eficientes que atendam às demandas dos clientes de forma eficaz.
 <hr>
 
-### Tenho experiência com:
+## Tenho experiência com:
 
 • Front-end: HTML5, CSS3, JavaScript, TypeScript, React.js, Sass, Tailwind, Styled Components.<br/>
 • Metodologias Ágeis: Scrum, Kanban.<br/>
 • Back-end: Node.js, Express.js, Nest.js. Spring Framework - java.<br/>
 • Banco de Dados: MySQL, PostgreSQL, MongoDB.<br/>
 • DevOps: Docker.<br/>
+<hr>
 
-### Formas de Contato:
-**Email**: <a href='mailTo:reginaldo.alves.junior54@gmail.com'>Meu email</a><br/>
-**Linkedin**: <a href='https://www.linkedin.com/in/reginaldo-dev/' target='_blank'>Meu Linkedin</a>
+## Formas de Contato:
+Email: <a href='mailTo:reginaldo.alves.junior54@gmail.com'>Meu email</a><br/>
+Linkedin: <a href='https://www.linkedin.com/in/reginaldo-dev/' target='_blank'>Meu Linkedin</a>
 
 
 <!--

@@ -8,7 +8,7 @@ Nos projetos, meu objetivo é desenvolver soluções robustas e eficientes que a
 
 • Front-end: HTML5, CSS3, JavaScript, TypeScript, React.js, Sass, Tailwind.<br/>
 • Metodologias Ágeis: Scrum, Kanban.<br/>
-• Back-end: Node.js, Express.js, Nest.js. Spring Framework - java.<br/>
+• Back-end: Node.js, Express.js e Spring Framework - java.<br/>
 • Banco de Dados: MySQL, PostgreSQL, MongoDB.<br/>
 • DevOps: Docker.<br/>
 <hr>
